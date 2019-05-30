@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubClient</string>
+    <string name="repos">repos</string>
+    <string name="loading">Loading...</string>
+</resources>
